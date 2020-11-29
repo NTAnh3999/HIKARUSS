@@ -1,2 +1,2 @@
 # HIKARUSS
-Bống đẹp zai
+Project cũ kỹ
